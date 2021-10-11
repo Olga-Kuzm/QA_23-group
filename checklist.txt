@@ -1,0 +1,5 @@
+1) первый пункт - pass/fail
+2) второй пункт - pass/fail
+3) третий пункт - pass/fail
+4) еще один пункт - pass/fail
+5) и еще один - pass/fail
